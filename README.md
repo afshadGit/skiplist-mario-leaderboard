@@ -1,4 +1,4 @@
-# SkipList Mario Leaderboard
+# Leaderboard for Super Mario Bros. using Skip Lists
 
 A **Super Mario Bros.-themed** leaderboard implemented using **Skip Lists**! Navigate through pages of **8 players each**, all within a **retro-styled GUI** built with **Pygame 2.5.2 (SDL 2.28.3, Python 3.12.9)**.
 
