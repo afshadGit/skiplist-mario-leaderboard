@@ -11,6 +11,9 @@ This project was created for my **Data Structures and Algorithms 1** course at u
 - **Pagination** with left and right navigation buttons 📜
 - **Add, delete, and search players** 🔍
 
+## 📸 Preview
+![Leaderboard Preview](DSA%20Project%20-%20Sample%20image.png)
+
 ## 👥 Collaborators
 This project was developed in collaboration with my classmates:
 - **Zainab Zahid**
@@ -38,9 +41,6 @@ This project was developed in collaboration with my classmates:
    ```sh
    python "Leaderboard Implementation.py"
    ```
-
-## 📸 Preview
-![Leaderboard Preview](DSA%20Project%20-%20Sample%20image.png)
 
 ---
 ### 📌 **Note**
