@@ -5,7 +5,7 @@ A **Super Mario Bros.-themed** leaderboard implemented using **Skip Lists**! Nav
 ## Project Overview
 This project was created for my **Data Structures and Algorithms 1** course at university. It efficiently manages player scores using **Skip Lists**, offering **fast insertions, deletions, and lookups**. The leaderboard updates dynamically as players are added or removed.
 
-## 🛠Features
+## Features
 - **Super Mario Bros.-inspired UI**
 - **Skip List implementation** for efficient leaderboard management
 - **Pagination** with left and right navigation buttons
